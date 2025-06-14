@@ -1,0 +1,15 @@
+!cumpleaños 
+:ir por pastel
+#10
+!cumpleaños 
+:ir por queso
+#3
+!que 
+:queso
+#1
+!ques 
+:ques
+#1
+!ques 
+:i
+#1

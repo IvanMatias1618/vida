@@ -1,0 +1,8 @@
+!queso 
+:comprar
+#10
+ 
+!comer 
+:tengo hambre
+#10
+ 
