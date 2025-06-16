@@ -1,0 +1,4 @@
+!comer 
+:tengo hambre
+#7
+ 
